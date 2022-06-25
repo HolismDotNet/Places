@@ -1,1 +1,17 @@
-
+{
+    "name": "Places",
+    "tables": [
+        {
+            "name": "Places",
+            "hasGuid": true,
+            "hasKey": true,
+            "hasSlug": true,
+            "hasOrder": true,
+            "columns": [
+                {
+                    "name": "Name"
+                }
+            ]
+        }
+    ]
+}
